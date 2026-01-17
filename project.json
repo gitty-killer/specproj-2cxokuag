@@ -1,6 +1,6 @@
 {
-  ""name"": ""specproj-2cxokuag"",
-  ""goal"": ""batch normalizer for routing"",
-  ""language"": ""go"",
-  ""template"": ""go-cli""
+    "name":  "specproj-2cxokuag",
+    "goal":  "batch normalizer for routing",
+    "language":  "go",
+    "template":  "go-cli"
 }
